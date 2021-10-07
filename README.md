@@ -31,4 +31,4 @@ Create an Employee Management project.
 1. Deploy the application
 
 ### For Frontend Developer
-1. Application UI adhere to the [mock](https://www.figma.com/file/PJS5uZNqDxmIRJJXiwHTdx/Case-Study).
+1. Application UI adhere to the [mock](https://www.figma.com/file/PJS5uZNqDxmIRJJXiwHTdx/Case-Study) and [prototype](https://www.figma.com/proto/PJS5uZNqDxmIRJJXiwHTdx/Case-Study?node-id=10%3A7372&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=10%3A7372&hide-ui=1).
