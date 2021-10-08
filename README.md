@@ -6,7 +6,7 @@ Create an Employee Management project.
 - Developer can use any of following frontend framework (React, Vue) or Blade components
 
 ### For Frontend Developer
-- Developer must use [React.js](https://reactjs.org/)
+- Developer must use [React.js](https://reactjs.org/) or [CRA](https://create-react-app.dev/)
 - Developer must use [MUI](https://mui.com/)
 - Developer must use [React-router](https://github.com/remix-run/react-router)
 - Developer can use [`json-server`](https://github.com/typicode/json-server) to mock the API or [Firebase](https://firebase.google.com/).
