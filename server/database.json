@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "employeeName": "Muhd Fitri",
+      "currentPosition": "ui/ux programmer",
+      "employeeID": "abc1232",
+      "workAddress": "Melaka Office",
+      "id": 1
+    },
+    {
+      "employeeName": "Danny",
+      "currentPosition": "Backend Developer",
+      "employeeID": "abc1234",
+      "workAddress": "Petaling Office",
+      "id": 3
+    },
+    {
+      "employeeName": "Puah",
+      "currentPosition": "Mobile Developer",
+      "employeeID": "wsd00022",
+      "workAddress": "KL",
+      "id": 4
+    },
+    {
+      "employeeName": "Habib",
+      "currentPosition": "Bake-end Pro Grammer",
+      "employeeID": "wsd1234",
+      "workAddress": "KL",
+      "id": 5
+    }
+  ],
+  "address": [
+    {
+      "addressName": "Melaka Office",
+      "unit": "Bandar Jasin",
+      "street": "Jalan BB2Gss",
+      "postcode": "77200",
+      "country": "Malaysia",
+      "id": 1
+    },
+    {
+      "addressName": "KL",
+      "unit": "test unit",
+      "street": "test street",
+      "postcode": "889900",
+      "country": "malaysia",
+      "id": 3
+    },
+    {
+      "addressName": "Petaling Office",
+      "unit": "Petaling Jaya",
+      "street": "Petaling Street",
+      "postcode": "77200",
+      "country": "Malaysia",
+      "id": 4
+    }
+  ]
+}
